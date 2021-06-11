@@ -1,0 +1,10 @@
+{
+	"id":"edshipyard",
+	"name":"ED Shipyard",
+	"author":"Ed",
+	"version":"2.1.2",
+	"description":"Adds some fun ships, fair and balanced!",
+	"gameVersion":"0.95a",
+	"jars":["jars/EDShipyard.jar"],	
+	"modPlugin":"data.scripts.ED_modPlugin",
+}
